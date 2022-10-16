@@ -1,6 +1,6 @@
 # Neumorphism-Login/Register-page
 #output
-![Uploading f2.jpeg…]()
+
 
 
 
